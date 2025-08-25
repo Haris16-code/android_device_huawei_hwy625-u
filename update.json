@@ -1,1 +1,6 @@
-
+{
+  "latestVersion": "1.2",
+  "changelog": "🔹 Fixed bugs\n🔹 Improved performance\n🔹 Security patch updated",
+  "updateUrl": "https://yourserver.com/updates/update-v1.2.zip",
+  "wipeRequired": false
+}
